@@ -1,0 +1,2 @@
+heatpump.c:12:19:turnOnHeatpump	24	static
+heatpump.c:24:19:turnOffHeatpump	24	static

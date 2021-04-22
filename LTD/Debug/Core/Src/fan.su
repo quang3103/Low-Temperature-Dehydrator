@@ -1,0 +1,8 @@
+fan.c:15:19:turnOnFan1	24	static
+fan.c:29:9:getPowerFan1	4	static
+fan.c:33:6:runFan1	24	static
+fan.c:42:19:turnOffFan1	24	static
+fan.c:55:19:turnOnFan2	24	static
+fan.c:67:19:turnOffFan2	24	static
+fan.c:79:19:turnOnFan3	24	static
+fan.c:91:19:turnOffFan3	24	static

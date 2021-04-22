@@ -1,0 +1,4 @@
+heator.c:14:6:setMaxTemperature	16	static
+heator.c:18:9:getMaxTemperature	4	static
+heator.c:22:19:turnOnHeator	24	static
+heator.c:34:19:turnOffHeator	24	static

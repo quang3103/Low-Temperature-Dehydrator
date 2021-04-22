@@ -1,0 +1,6 @@
+DHT11.c:12:6:delay	16	static
+DHT11.c:17:6:setPinOutput	32	static
+DHT11.c:26:6:setPinInput	32	static
+DHT11.c:35:9:startDHT11	24	static
+DHT11.c:59:9:readDHT11	16	static
+DHT11.c:71:19:getDHT11Data	24	static

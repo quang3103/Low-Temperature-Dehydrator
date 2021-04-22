@@ -1,0 +1,8 @@
+button.c:21:6:readIncreaseButton	8	static
+button.c:40:9:buttonIncreaseValue	16	static
+button.c:63:6:readDecreaseButton	8	static
+button.c:83:9:buttonDecreaseValue	16	static
+button.c:108:6:readModeButton	8	static
+button.c:116:9:buttonChangeMode	16	static
+button.c:132:6:readDecideButton	8	static
+button.c:140:9:buttonDecide	16	static

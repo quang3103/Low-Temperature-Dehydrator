@@ -1,0 +1,7 @@
+scheduler.c:14:6:schedulerInit	8	static
+scheduler.c:19:6:insertTaskFirstTime	40	static
+scheduler.c:45:6:insertTaskBack	32	static
+scheduler.c:70:6:deleteFirstNode	16	static
+scheduler.c:77:6:dispatchTask	16	static
+scheduler.c:92:6:updateTask	4	static
+scheduler.c:99:6:deleteAllTask	8	static
